@@ -14,7 +14,7 @@ ENS Challenge Data :
 
 Projet de statistiques appliquées :
 
-![Carte Lisez-moi](https://github-readme-stats.vercel.app/api/pin/?username=kmlst&repo=Projet-stat-app-EM-risk-evaluation-and-stress-tests)
+![Carte Lisez-moi](https://github-readme-stats.vercel.app/api/pin/?username=kmlst&repo=Physique-app.-aux-Sciences-sociales-Simplicially-driven-simple-contagion)
 
 Outil d'édition de document pour ENSAE Junior Études :
 
