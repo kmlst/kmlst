@@ -16,7 +16,5 @@ Projet de statistiques appliquées :
 
 ![Carte Lisez-moi](https://github-readme-stats.vercel.app/api/pin/?username=kmlst&repo=Physique-app.-aux-Sciences-sociales-Simplicially-driven-simple-contagion)
 
-Outil d'édition de document pour ENSAE Junior Études :
 
-![Carte Lisez-moi](https://github-readme-stats.vercel.app/api/pin/?username=kmlst&repo=EJE-web-app)
 
