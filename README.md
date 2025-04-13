@@ -1,19 +1,15 @@
 # Kamil Stos
 
-Projects I do as I am studying at ENSAE Paris. 
-Currently in the process of going over the projects I've been doing and writing up presentations.
+Projects and topics that I have interest for.
 
-## Comptetitions - Hackathons 
+### Investigating HMM and latent space models 
+WIP : The three algorithms, EM approach, VAE and deep latent space models, U-Nets
 
-### 2nd place : SupTech SPRINT Banque de France
-![Carte Lisez-moi](https://github-readme-stats.vercel.app/api/pin/?username=kmlst&repo=Suptech-Sprint-ACPR)
+### Technique repertoire for binary classification, example gallery and experiments
+WIP : How to choose the algo ; Customizing CV to the task ; Calibration problematics ; Thresholding and stacking ; 
 
-## Projects -
+### Investigating Computer Vision models : how has the state of the art evolved ?
+WIP : VAE, Inception, Diffusion models 
 
-### Approximation of SHAP for data valuation
-[ in process of writing a proper presentation ]
-
-### Market stress test model applied to a portfolio of illiquid assets of emerging markets.
-[ in process of writing a proper presentation ] 
-
-
+### Capstone project : shaping up
+WI actual P
