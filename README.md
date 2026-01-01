@@ -14,5 +14,5 @@ Generative AI hackathon hosted by Banque de France and the ACPR.
 ---
 
 ## Reach Me
-- Email: [Personal](kamil.stos@proton.me) | [School](kamil.stos@ensae.fr)
+- Email: [kamil.stos@proton.me]
 - LinkedIn: [Kamil](https://www.linkedin.com/in/kamil-stos/)
